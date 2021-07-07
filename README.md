@@ -4,6 +4,6 @@ Whiteboards are an ideal support tool for planning meetings and team discussions
 A web application where the user can draw on screen using different colors and also can adjust the thickness of the pencil and eraser.
 Undo functionality has also been added using stack data structure.
 
-# Project is live here 
+# Project is live [here](https://whiteboard-devsnest.netlify.app/) 
 
 
